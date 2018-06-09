@@ -86,3 +86,5 @@ class MainActivity8 : AppCompatActivity() {
         callbackManager.onActivityResult(requestCode, resultCode, data)
     }
 }
+
+// Thanks to Sihyun...
